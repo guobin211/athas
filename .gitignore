@@ -78,3 +78,6 @@ src/extensions/bundled/*/grammars/*.wasm
 
 # local codex settings
 src-tauri/.claude/settings.local.json
+
+.agents/.cache
+.agents/cache
